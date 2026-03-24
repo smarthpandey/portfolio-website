@@ -27,3 +27,15 @@ ul {
     list-style: none;
     padding: 0;
 }
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.project {
+    background: #0d1117;
+    border: 1px solid cyan;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
