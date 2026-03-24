@@ -1,14 +1,33 @@
 body {
-    background: black;
-    color: white;
-    font-family: Arial;
+    background: #0d1117;
+    font-family: Arial, sans-serif;
     text-align: center;
+    color: white;
 }
 
 h1 {
     color: cyan;
+    margin-top: 40px;
 }
 
 h2 {
     color: yellow;
+}
+
+p {
+    font-size: 18px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    font-size: 18px;
+    margin: 5px;
+}
+
+.container {
+    margin-top: 50px;
 }
