@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Smarth Portfolio</title>
+</head>
+
+<body>
+
+<h1>Smarth Pandey</h1>
+
+<p>B.Tech CSE student | Frontend | Cloud | DevOps</p>
+
+<h2>Skills</h2>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Cloud</li>
+<li>DevOps</li>
+</ul>
+
+</body>
+</html>
